@@ -93,6 +93,59 @@ module.exports = {
 
 ### Setting Up Lavalink
 
+#### Configuring `application.yml`
+Create or modify the `application.yml` file inside the Lavalink directory with the following configuration:
+
+```yaml
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: "your_lavalink_password_here"
+    sources:
+      youtube: true
+      bandcamp: true
+      soundcloud: true
+      twitch: true
+      vimeo: true
+      http: true
+      local: false
+    bufferDurationMs: 400
+    frameBufferDurationMs: 5000
+    opusEncodingQuality: 10
+    resamplingQuality: HIGH
+    trackStuckThresholdMs: 10000
+    useSeekGhosting: true
+    youtubePlaylistLoadLimit: 6
+    playerUpdateInterval: 5
+    youtubeSearchEnabled: true
+    soundcloudSearchEnabled: true
+
+metrics:
+  prometheus:
+    enabled: false
+    endpoint: /metrics
+
+sentry:
+  dsn: ""
+  environment: "production"
+
+logging:
+  file:
+    max-history: 30
+    max-size: 1GB
+  level:
+    root: INFO
+```
+
+After configuring `application.yml`, start Lavalink using the following command:
+```sh
+java -jar Lavalink.jar
+```
+
+### Setting Up Lavalink
+
 1. Download Lavalink from [Lavalink GitHub](https://github.com/freyacodes/Lavalink).
 2. Install Java (at least Java 11).
 3. Edit the `application.yml` file to configure your host, port, and password.
