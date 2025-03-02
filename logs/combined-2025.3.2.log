@@ -1,0 +1,843 @@
+{"level":30,"time":1740896189756,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896189887,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896189919,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896189921,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896190075,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896190152,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896190154,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896190156,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896190157,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896191176,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896191183,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896191185,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896191193,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896191216,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896191229,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896191233,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896191240,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896191242,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896191300,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896191301,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896191304,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896191307,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896191309,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896191312,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896191314,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896191316,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896191317,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896191318,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896191319,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896191321,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896191322,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896191344,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896191351,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896191354,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896191357,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896191358,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896191359,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896191360,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896191361,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896191363,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896191364,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896191366,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896191368,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896191369,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896191373,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896191375,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896191383,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896191387,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896191389,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896191401,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896191402,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896191404,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896191406,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896191407,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896191408,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896191410,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896191411,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896191412,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896191413,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896191415,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896191416,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896191418,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896191419,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896191423,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896191424,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896191426,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896191427,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896191494,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896191494,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896191494,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896191496,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896191496,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896191496,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896191582,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896191885,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896191885,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740896196057,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896196674,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896196722,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1740896202775,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740896203291,"pid":18736,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740896313570,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896313654,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896313671,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896313673,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896313733,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896313756,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896313757,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896313758,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896313759,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896314177,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896314179,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896314180,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896314181,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896314188,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896314190,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896314192,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896314194,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896314196,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896314206,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896314207,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896314208,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896314211,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896314213,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896314217,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896314218,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896314220,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896314221,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896314223,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896314225,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896314226,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896314226,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896314228,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896314234,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896314236,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896314238,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896314239,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896314240,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896314241,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896314242,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896314243,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896314244,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896314245,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896314247,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896314252,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896314256,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896314258,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896314268,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896314272,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896314273,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896314276,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896314277,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896314279,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896314280,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896314281,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896314282,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896314283,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896314284,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896314285,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896314286,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896314287,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896314288,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896314289,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896314290,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896314294,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896314295,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896314297,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896314298,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896314355,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896314355,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896314355,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896314357,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896314357,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896314357,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896314408,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896314685,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896314685,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740896314861,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896315420,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896315445,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 2222"}
+{"level":30,"time":1740896315877,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740896317202,"pid":18008,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740896366525,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896366584,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896366598,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896366599,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896366655,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896366676,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896366677,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896366678,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896366680,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896367097,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896367100,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896367101,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896367102,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896367109,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896367110,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896367113,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896367115,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896367117,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896367126,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896367128,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896367129,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896367132,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896367134,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896367136,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896367137,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896367138,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896367139,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896367140,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896367141,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896367142,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896367143,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896367144,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896367148,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896367150,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896367152,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896367152,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896367153,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896367154,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896367155,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896367155,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896367156,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896367157,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896367159,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896367161,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896367164,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896367166,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896367172,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896367175,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896367176,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896367178,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896367179,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896367180,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896367184,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896367185,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896367186,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896367187,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896367188,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896367188,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896367189,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896367190,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896367191,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896367192,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896367193,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896367199,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896367200,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896367201,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896367202,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896367229,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896367229,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896367229,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896367231,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896367231,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896367231,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896367279,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896367525,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896367525,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740896367691,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896368190,"pid":18148,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896372006,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896372070,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896372083,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896372084,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896372136,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896372157,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896372158,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896372159,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896372160,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896372557,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896372559,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896372561,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896372562,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896372568,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896372570,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896372572,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896372575,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896372576,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896372586,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896372587,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896372588,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896372591,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896372593,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896372595,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896372596,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896372597,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896372598,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896372599,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896372601,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896372602,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896372602,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896372603,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896372608,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896372610,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896372611,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896372612,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896372613,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896372614,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896372614,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896372615,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896372616,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896372617,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896372622,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896372623,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896372626,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896372628,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896372634,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896372637,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896372638,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896372640,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896372641,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896372642,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896372643,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896372644,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896372646,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896372647,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896372648,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896372649,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896372649,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896372650,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896372651,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896372652,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896372653,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896372655,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896372657,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896372658,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896372658,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896372683,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896372683,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896372684,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896372685,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896372685,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896372685,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896372733,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896372936,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896372937,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740896373100,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896373586,"pid":12568,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896395797,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896395860,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896395874,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896395875,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896395930,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896395951,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896395952,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896395953,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896395955,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896396338,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896396340,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896396341,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896396342,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896396349,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896396350,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896396353,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896396355,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896396357,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896396366,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896396367,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896396369,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896396372,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896396374,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896396376,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896396377,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896396378,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896396379,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896396380,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896396381,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896396382,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896396383,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896396384,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896396388,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896396391,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896396392,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896396393,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896396394,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896396395,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896396396,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896396396,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896396397,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896396399,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896396403,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896396404,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896396407,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896396409,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896396416,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896396423,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896396425,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896396428,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896396429,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896396430,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896396431,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896396432,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896396433,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896396434,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896396435,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896396436,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896396437,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896396438,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896396439,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896396439,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896396440,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896396443,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896396445,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896396445,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896396446,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896396471,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896396471,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896396471,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896396473,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896396473,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896396473,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896396519,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896396793,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896396794,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740896396957,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896397465,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896397493,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1740896397893,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740896398282,"pid":5716,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740896511100,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896511171,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896511185,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896511186,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896511238,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896511261,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896511263,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896511264,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896511265,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896511657,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896511660,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896511661,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896511662,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896511669,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896511671,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896511673,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896511676,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896511677,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896511687,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896511688,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896511690,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896511693,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896511695,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896511698,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896511699,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896511700,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896511702,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896511703,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896511704,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896511705,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896511706,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896511706,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896511712,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896511713,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896511715,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896511716,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896511717,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896511718,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896511719,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896511720,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896511721,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896511722,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896511724,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896511726,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896511729,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896511734,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896511742,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896511745,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896511746,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896511749,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896511751,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896511753,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896511754,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896511755,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896511756,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896511757,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896511758,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896511759,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896511761,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896511762,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896511764,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896511765,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896511766,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896511769,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896511771,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896511772,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896511773,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896511799,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896511799,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896511799,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896511801,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896511801,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896511801,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896511846,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896512106,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896512107,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896512656,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896513147,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740896513426,"pid":7448,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740896903585,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740896903673,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740896903687,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896903688,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896903754,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740896903777,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740896903778,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740896903779,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740896903780,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740896904243,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740896904246,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740896904247,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740896904248,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740896904255,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740896904257,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740896904259,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740896904262,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740896904263,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740896904275,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740896904277,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740896904279,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740896904282,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740896904284,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740896904287,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896904288,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740896904290,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740896904291,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740896904292,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740896904293,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740896904294,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740896904295,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740896904295,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740896904300,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740896904302,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740896904304,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740896904305,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740896904306,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740896904307,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740896904308,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740896904309,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740896904310,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740896904312,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740896904318,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740896904323,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740896904327,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740896904329,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740896904336,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740896904338,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740896904339,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740896904342,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740896904343,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740896904344,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740896904345,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740896904346,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740896904347,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740896904348,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740896904349,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740896904350,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740896904350,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740896904351,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740896904353,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740896904353,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740896904354,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740896904359,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740896904361,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740896904362,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740896904363,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740896904390,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740896904390,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740896904390,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740896904400,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740896904400,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740896904400,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740896904449,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740896904716,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740896904716,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740896905289,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740896905757,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740896906229,"pid":14560,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740900454570,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740900455313,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740900455374,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900455418,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900455838,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900456070,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740900456100,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740900456103,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740900456105,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740900460316,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740900460322,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1740900460370,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1740900460374,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1740900460436,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740900460440,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740900460445,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740900460495,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740900460498,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740900460622,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740900460623,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740900460656,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740900460661,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740900460665,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740900460669,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1740900460672,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1740900460675,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1740900460677,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1740900460679,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1740900460723,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1740900460725,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1740900460727,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1740900460729,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1740900460777,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740900460855,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740900460861,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740900460863,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740900460865,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740900460867,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740900460870,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740900460872,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740900460922,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740900460926,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740900461012,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740900461048,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740900461057,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740900461063,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740900461399,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740900461405,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740900461408,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740900461419,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740900461475,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740900461479,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740900461518,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740900461553,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740900461586,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740900461590,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740900461592,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740900461594,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740900461595,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740900461597,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740900461599,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740900461600,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740900461601,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740900461669,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740900461674,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740900461718,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740900461721,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740900462050,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loaded 67 commands"}
+{"level":30,"time":1740900462050,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loaded 48 slash commands"}
+{"level":30,"time":1740900462051,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740900462106,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740900462106,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740900462106,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740900462627,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740900462910,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740900462910,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740900463508,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740900463988,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740900464377,"pid":10200,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740900580514,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740900580607,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740900580623,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900580625,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900580698,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900580725,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740900580726,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740900580728,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740900580729,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740900581225,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740900581239,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740900581241,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740900581243,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740900581246,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740900581248,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740900581261,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740900581262,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740900581264,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740900581267,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740900581271,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740900581294,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740900581297,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740900581300,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740900581303,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740900581304,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740900581305,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740900581306,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740900581307,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740900581308,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740900581310,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740900581312,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740900581319,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740900581323,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740900581325,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740900581332,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740900581336,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740900581338,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740900581340,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740900581341,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740900581343,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740900581344,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740900581345,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740900581346,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740900581348,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740900581349,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740900581349,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740900581352,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740900581354,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740900581355,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740900581356,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740900581357,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740900581360,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740900581362,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740900581363,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740900581363,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740900581399,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loaded 79 commands"}
+{"level":30,"time":1740900581399,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1740900581399,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740900581403,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740900581403,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740900581403,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740900581460,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740900581733,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740900581733,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740900584561,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740900585146,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740900585251,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1740900585671,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740900586233,"pid":17532,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740900601257,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740900601316,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740900601330,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900601331,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900601381,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900601402,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740900601403,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740900601404,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740900601406,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740900601790,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740900601802,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740900601804,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740900601806,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740900601808,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740900601810,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740900601821,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740900601822,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740900601824,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740900601827,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740900601828,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740900601842,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740900601843,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740900601845,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740900601846,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740900601847,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740900601848,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740900601848,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740900601849,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740900601850,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740900601852,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740900601853,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740900601855,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740900601857,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740900601859,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740900601866,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740900601868,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740900601870,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740900601872,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740900601873,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740900601875,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740900601876,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740900601876,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740900601881,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740900601882,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740900601883,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740900601885,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740900601886,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740900601888,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740900601890,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740900601891,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740900601892,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740900601897,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740900601899,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740900601900,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740900601902,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740900601932,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loaded 79 commands"}
+{"level":30,"time":1740900601933,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1740900601933,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740900601935,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740900601935,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740900601935,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740900601986,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740900602259,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740900602259,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740900602522,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740900603024,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740900603052,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1740900603601,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740900603998,"pid":13160,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740900784253,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740900784386,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740900784429,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900784431,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900784526,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740900784576,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1740900784577,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1740900784578,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1740900784580,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1740900785162,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740900785174,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740900785176,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740900785178,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740900785181,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740900785183,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740900785193,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740900785194,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740900785196,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740900785199,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740900785201,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740900785216,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740900785218,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740900785220,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740900785221,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740900785221,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740900785222,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740900785223,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740900785224,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740900785225,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740900785226,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740900785228,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740900785229,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740900785232,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740900785237,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740900785244,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1740900785246,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1740900785247,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1740900785252,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1740900785252,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1740900785254,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1740900785255,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1740900785256,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1740900785257,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1740900785258,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1740900785259,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1740900785259,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1740900785260,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1740900785261,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1740900785263,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740900785263,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740900785265,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1740900785268,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1740900785269,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1740900785270,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1740900785271,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1740900785296,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loaded 79 commands"}
+{"level":30,"time":1740900785296,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1740900785296,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740900785298,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740900785298,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740900785298,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740900785344,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740900785629,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740900785630,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740900785897,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740900786455,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740900786494,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1740900786930,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":30,"time":1740900787365,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
