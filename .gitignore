@@ -4,3 +4,5 @@
 config.js
 /logs
 logs/combined-2025.3.2.log
+/logs
+*.log

@@ -841,3 +841,55 @@
 {"level":30,"time":1740900786494,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
 {"level":30,"time":1740900786930,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
 {"level":30,"time":1740900787365,"pid":15828,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
+{"level":30,"time":1740951295277,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Validating config file and environment variables"}
+{"level":30,"time":1740951295342,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loading commands..."}
+{"level":20,"time":1740951295355,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1740951295356,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1740951295405,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1740951295802,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1740951295813,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1740951295815,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1740951295817,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1740951295820,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1740951295821,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1740951295831,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1740951295832,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1740951295833,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1740951295836,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1740951295838,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1740951295851,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1740951295853,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1740951295855,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1740951295855,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1740951295856,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1740951295857,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1740951295858,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1740951295861,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1740951295862,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1740951295863,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1740951295865,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1740951295866,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1740951295869,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1740951295871,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1740951295893,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1740951295894,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1740951295895,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1740951295923,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loaded 101 commands"}
+{"level":30,"time":1740951295923,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loaded 82 slash commands"}
+{"level":30,"time":1740951295923,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loading contexts..."}
+{"level":30,"time":1740951295925,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1740951295925,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1740951295925,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loading events..."}
+{"level":30,"time":1740951295968,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1740951296227,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1740951296227,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Launching dashboard"}
+{"level":30,"time":1740951296389,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1740951297002,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1740951297029,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1740951297469,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Logged in as Kai.exe#7468! (1345520227601088542)"}
+{"level":20,"time":1740951297470,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1740951297471,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Music Manager initialized"}
+{"level":50,"time":1740951297486,"pid":19808,"hostname":"DESKTOP-0330K5T","err":{"type":"Error","message":"Error: Unexpected server response: 200","stack":"Error: Error: Unexpected server response: 200\n    at Connection._onerror (D:\\GitHub\\Kai.exe\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (D:\\GitHub\\Kai.exe\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (D:\\GitHub\\Kai.exe\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:520:28)\n    at emitErrorAndClose (D:\\GitHub\\Kai.exe\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"},"msg":"Node \"Local Node\" encountered an error: Error: Unexpected server response: 200.: Error: Unexpected server response: 200"}
+{"level":30,"time":1740951297491,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1740951297491,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1740951297905,"pid":19808,"hostname":"DESKTOP-0330K5T","msg":"Successfully registered interactions"}
