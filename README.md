@@ -163,15 +163,58 @@ java -jar Lavalink.jar
 - **Image API Key:** [StrangeAPI](https://strangeapi.hostz.me/dashboard)
 - **Spotify API Credentials:** [Spotify Developer](https://developer.spotify.com)
 
+## Quick Start for Github Releases To Discord
+
+### 1. Create a Discord Webhook
+
+- Go to your Discord server settings → **Integrations** → **Webhooks**.
+- Click **Create Webhook** and copy the webhook URL.
+
+### 2. Add the Action to Your Workflow
+
+Create (or update) `.github/workflows/github-releases-to-discord.yml`:
+
+```yaml
+on:
+  release:
+    types: [published]
+
+jobs:
+  github-releases-to-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: GitHub Releases to Discord
+        uses: SethCohen/github-releases-to-discord@v1
+        with:
+          webhook_url: ${{ secrets.WEBHOOK_URL }}
+          color: "2105893"
+          username: "Release Changelog"
+          avatar_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
+          content: "||@everyone||"
+          footer_title: "Changelog"
+          reduce_headings: true
+```
+
+### 3. Add Your Webhook URL as a Secret
+
+- In your GitHub repo, go to **Settings → Secrets and variables → Actions**.
+- Add a new secret named `WEBHOOK_URL` and paste your Discord webhook URL.
+
+---
+
 ## Additional Notes
 
 - If using webhooks, make sure to set up the appropriate URLs.
 - Ensure all required API keys and credentials are correctly added.
 - If you encounter issues, verify your environment variables and API credentials.
 
+
+
 ### Need Help?
 
-If you run into any issues, feel free to open an issue in the repository or contact support.
+If you run into any issues, you can open an issue in the repository or contact support.
 
 Join our Discord server for support: [Discord Server](https://discord.gg/CcNhDGea7M)
 If you run into any issues, feel free to open an issue in the repository or contact support.
